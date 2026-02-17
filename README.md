@@ -45,8 +45,4 @@ We are always looking for passionate researchers, data scientists, and clinical 
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x200/ffb6c1/ffffff?text=Turning+Medical+Images+Into+Intelligence" alt="PINKCC Banner">
-</p>
-
 [🌐 Visit pinkcc.com](https://pinkcc.com) | [📍 Find us in Montpellier](https://www.ircm.fr)
